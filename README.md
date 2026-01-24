@@ -13,14 +13,6 @@ I am a Technion Computer Science graduate with nearly a decade of experience ver
 ### 🚀 The New Chapter (Software & Quant)
 I am now translating low-level system understanding into high-level software solutions. My current work focuses on:
 *   **Algorithmic Trading:** Designing LSTM/Attention-based models for short-term market forecasting.
-*   **System Automation:** Building robust, hands-free CLI and voice interaction tools for macOS.
-
-### 🛠 Tech Stack
-| Domain | Technologies |
-| :--- | :--- |
-| **Software & AI** | Python (TensorFlow, Pandas), Swift, Shell Scripting |
-| **Verification** | SystemVerilog, UVM, C/C++ |
-| **Focus** | Security, Data Integrity, High-Performance Computing |
 
 ### 📫 Connect
 [semiconduct01@gmail.com](mailto:semiconduct01@gmail.com)
