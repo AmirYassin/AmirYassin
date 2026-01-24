@@ -11,6 +11,14 @@ Senior Engineer | Ex-Apple (9 Years)
   quantitative trading systems.
 
 
+> MISSION: OPEN SOURCE
+  I have decided to open this repository to share the internal tools and 
+  utilities I build for my own workflow. These are designed with production-grade 
+  reliability and "it just works" philosophy.
+  
+  Please feel free to use, fork, and contribute.
+
+
 > EDUCATION
   B.Sc. Computer Science
   Technion - Israel Institute of Technology
@@ -32,6 +40,12 @@ Senior Engineer | Ex-Apple (9 Years)
   Focus:      Algorithmic Trading
               Designing LSTM/Attention-based models for short-term 
               market forecasting.
+
+
+> RELEASED TOOLS
+  * macos-automation-cli  [v1.0.0]
+    A robust command-line utility for automating complex system workflows 
+    on Apple Silicon. (Coming Soon)
 
 
 > CONNECT
