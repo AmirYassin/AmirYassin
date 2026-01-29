@@ -42,11 +42,6 @@ Senior Engineer | Ex-Apple (9 Years)
               market forecasting.
 
 
-> RELEASED TOOLS
-  * macos-automation-cli  [v1.0.0]
-    A robust command-line utility for automating complex system workflows 
-    on Apple Silicon. (Coming Soon)
-
 
 > CONNECT
   Email:      semiconduct01@gmail.com
