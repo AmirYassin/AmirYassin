@@ -28,7 +28,7 @@ Senior Engineer | Ex-Apple (9 Years)
 
   [2021-2025] NAND Storage Security
               Led storage security validation including a "correct-by-construction"
-              verification methodology and security compliance by designss, setting the gold standard for critical
+              verification methodology and security compliance by design, setting the gold standard for critical
               security validation.
 
 
